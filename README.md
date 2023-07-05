@@ -10,7 +10,8 @@
 🚀 Venture through the labyrinth of Python with us! This repository is a treasure chest, filled with Jupyter notebooks that guide you through the twisting corners and unexpected traps of Python programming. Designed for both greenhorn learners making their first steps and experienced code sorcerers seeking to conjure even more magic with Python.
 
 # 📚 Content of Repository
-1. [Call by Assignment](./notebooks/CallByAssignment.ipynb))
+1. [Call by Assignment](./notebooks/CallByAssignment.ipynb)
+2. [Dictionay Keys](./notebooks/DictKeys.ipynb)
 
 ## 🗺️ Chart Your Course
 
