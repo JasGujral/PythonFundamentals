@@ -12,6 +12,7 @@
 # 📚 Content of Repository
 1. [Call by Assignment](./notebooks/CallByAssignment.ipynb)
 2. [Dictionay Keys](./notebooks/DictKeys.ipynb)
+3. [DataClasses](./notebooks/DataClasses.ipynb)
 
 ## 🗺️ Chart Your Course
 
