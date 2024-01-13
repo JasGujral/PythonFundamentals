@@ -13,6 +13,7 @@
 1. [Call by Assignment](./notebooks/CallByAssignment.ipynb)
 2. [Dictionay Keys](./notebooks/DictKeys.ipynb)
 3. [DataClasses](./notebooks/DataClasses.ipynb)
+4. [Descriptors](./notebooks/Descriptors.ipynb)
 
 ## 🗺️ Chart Your Course
 
